@@ -69,7 +69,7 @@ Single-cell Analysis • RNA-seq • Scanpy • AnnData • Genomics
 
 **Software Engineering**
 
-Python • Rust • TypeScript • JavaScript • C++
+Python • Rust • TypeScript • JavaScript • C
 
 **Infrastructure**
 
