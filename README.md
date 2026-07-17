@@ -91,7 +91,7 @@ I believe strong engineering accelerates good research. Building models from fir
 
 ## Connect
 
-* 💼 LinkedIn
+* 💼 <a href="https://www.linkedin.com/in/zaid-yusuf-de">Linkedin<a>
 * 🌐 Portfolio *(coming soon)*
 * 📫 Open to Research Engineer, Applied ML Engineer, and Computational Biology opportunities.
 
